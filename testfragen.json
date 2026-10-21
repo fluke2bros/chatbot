@@ -1,0 +1,162 @@
+[
+  {
+    "frage": "Erklär mir bitte kurz, was das O-ja an der HTW eigentlich ist.",
+    "intent": "was_ist_oja"
+  },
+  {
+    "frage": "Worum geht es beim Programm O ja Orientierungsjahr Ausbildung und Studium?",
+    "intent": "was_ist_oja"
+  },
+  {
+    "frage": "Welche Zulassungsvoraussetzungen muss ich für das Orientierungsjahr erfüllen?",
+    "intent": "zielgruppe_voraussetzungen"
+  },
+  {
+    "frage": "Reicht die Fachhochschulreife oder braucht man zwingend Abitur für O-ja?",
+    "intent": "zielgruppe_voraussetzungen"
+  },
+  {
+    "frage": "Wie sieht der genaue Ablauf während des Orientierungsjahres aus?",
+    "intent": "ablauf"
+  },
+  {
+    "frage": "Wie ist das Jahr im O-ja Programm inhaltlich aufgebaut?",
+    "intent": "ablauf"
+  },
+  {
+    "frage": "Wie viele Semester umfasst die Dauer des Orientierungsjahres?",
+    "intent": "dauer"
+  },
+  {
+    "frage": "Wie lange geht das O-ja Programm insgesamt?",
+    "intent": "dauer"
+  },
+  {
+    "frage": "Kann man beim O-ja auch im Wintersemester per Quereinstieg anfangen?",
+    "intent": "studienstart_quereinstieg"
+  },
+  {
+    "frage": "Startet der Jahrgang im Sommersemester oder im Oktober?",
+    "intent": "studienstart_quereinstieg"
+  },
+  {
+    "frage": "Wo genau muss ich meine Bewerbung für das Orientierungsjahr einreichen?",
+    "intent": "bewerbung"
+  },
+  {
+    "frage": "Wie bewerbe ich mich online für das O-ja an der HTW?",
+    "intent": "bewerbung"
+  },
+  {
+    "frage": "Bis wann läuft die Bewerbungsfrist für das Wintersemester beim O-ja?",
+    "intent": "fristen"
+  },
+  {
+    "frage": "Welche Fristen muss ich bei der Bewerbung für das Orientierungsjahr beachten?",
+    "intent": "fristen"
+  },
+  {
+    "frage": "Welche Fächer wie Mathematik oder Programmierung hat man in den Modulen?",
+    "intent": "module_inhalte"
+  },
+  {
+    "frage": "Was für Module und Grundlagenfächer stehen im O-ja auf dem Lehrplan?",
+    "intent": "module_inhalte"
+  },
+  {
+    "frage": "Werden im Orientierungsjahr auch Sprachkurse bzw. Fremdsprachen angeboten?",
+    "intent": "sprachmodule"
+  },
+  {
+    "frage": "Gibt es Sprach-Module oder Deutsch als Fremdsprache im Lehrangebot?",
+    "intent": "sprachmodule"
+  },
+  {
+    "frage": "In welchen technischen Berufsfeldern wie Energie oder Umwelt orientiert man sich?",
+    "intent": "schwerpunkte_berufsfelder"
+  },
+  {
+    "frage": "Auf welchen MINT-Schwerpunkten und Branchen liegt der Fokus beim O-ja?",
+    "intent": "schwerpunkte_berufsfelder"
+  },
+  {
+    "frage": "Macht man im O-ja auch ein Betriebspraktikum in einem Unternehmen?",
+    "intent": "praktikum"
+  },
+  {
+    "frage": "Wie sammelt man im Orientierungsjahr praktische Erfahrungen und Praktika?",
+    "intent": "praktikum"
+  },
+  {
+    "frage": "Muss man am Ende der Module im O-ja Prüfungen oder Klausuren ablegen?",
+    "intent": "pruefungen"
+  },
+  {
+    "frage": "Wie funktionieren die Leistungsnachweise und Prüfungen im Orientierungsjahr?",
+    "intent": "pruefungen"
+  },
+  {
+    "frage": "Kann ich nach dem O-ja direkt in das 2. Fachsemester eines Studiengangs wechseln?",
+    "intent": "wechsel_studiengang"
+  },
+  {
+    "frage": "Wie läuft der Wechsel in einen regulären Studiengang nach dem Orientierungsjahr?",
+    "intent": "wechsel_studiengang"
+  },
+  {
+    "frage": "Wird mir geholfen, einen Ausbildungsbetrieb zu finden, wenn ich eine Ausbildung wähle?",
+    "intent": "wechsel_ausbildung"
+  },
+  {
+    "frage": "Mit welchen Kooperationspartnern wie IHK oder ABB arbeitet die HTW beim O-ja zusammen?",
+    "intent": "kooperationspartner"
+  },
+  {
+    "frage": "Fallen für das Orientierungsjahr Studiengebühren an oder nur der Semesterbeitrag?",
+    "intent": "kosten_semesterbeitrag"
+  },
+  {
+    "frage": "Was kostet mich die Teilnahme am O-ja Programm der HTW Berlin?",
+    "intent": "kosten_semesterbeitrag"
+  },
+  {
+    "frage": "Bin ich während des O-ja regulär als Student an der HTW Berlin immatrikuliert?",
+    "intent": "studierendenstatus_vorteile"
+  },
+  {
+    "frage": "Kann man für das Orientierungsjahr eigentlich studentisches BAföG bekommen?",
+    "intent": "bafoeg_finanzierung"
+  },
+  {
+    "frage": "Bekommt man im O-ja ein persönliches Coaching zur Entscheidungsfindung?",
+    "intent": "coaching_beratung"
+  },
+  {
+    "frage": "Findet der Unterricht am Campus Wilhelminenhof in Oberschöneweide statt?",
+    "intent": "standort_campus"
+  },
+  {
+    "frage": "Wie lautet die E-Mail-Adresse und der Kontakt für Rückfragen zum O-ja?",
+    "intent": "kontakt"
+  },
+  {
+    "frage": "Wi lange daurt das Orientierungsjahr an der HTW?",
+    "intent": "dauer"
+  },
+  {
+    "frage": "Wlche Modulle und Fächr wie Mahte und Programierung gibt es?",
+    "intent": "module_inhalte"
+  },
+  {
+    "frage": "Giebt es im O-ja ein Betribspraktikum in Unternehmn?",
+    "intent": "praktikum"
+  },
+  {
+    "frage": "Wie funktoniert die Bewrbung für das O-ja über das Portall?",
+    "intent": "bewerbung"
+  },
+  {
+    "frage": "Gibt es Infoveranstalltungen zum Orientirungsjahr vorab?",
+    "intent": "infoveranstaltungen"
+  }
+]
