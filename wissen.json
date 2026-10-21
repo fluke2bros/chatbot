@@ -1,0 +1,298 @@
+[
+  {
+    "intent": "was_ist_oja",
+    "beispiele": [
+      "Was ist das O-ja?",
+      "Was genau ist das Orientierungsjahr an der HTW Berlin?",
+      "Kannst du mir erklären, worum es beim O-ja geht?",
+      "Was bedeutet O ja Orientierungsjahr Ausbildung und Studium?",
+      "Erzähl mir, was das O-ja Programm der HTW ist.",
+      "Was verbirgt sich hinter dem Angebot O-ja?",
+      "Worum handelt es sich beim Orientierungsjahr O-ja?"
+    ],
+    "antwort": "Das „O ja! Orientierungsjahr Ausbildung und Studium“ ist ein gemeinsames Programm der HTW Berlin und führender Partner der beruflichen Bildung. Unter dem Motto „Erst probieren, dann entscheiden!“ hilft es Schulabgänger*innen, sich innerhalb eines Jahres zwischen einer Berufsausbildung, einem Studium oder einem kombinierten Modell im technischen Bereich (MINT) zu entscheiden.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "zielgruppe_voraussetzungen",
+    "beispiele": [
+      "Für wen ist das O-ja gedacht?",
+      "Welche Voraussetzungen brauche ich für das Orientierungsjahr?",
+      "Brauche ich Abitur oder Fachhochschulreife für das O-ja?",
+      "Wer kann am Orientierungsjahr der HTW Berlin teilnehmen?",
+      "An welche Zielgruppe richtet sich das O-ja Programm?",
+      "Welche Zulassungsvoraussetzungen gelten für O-ja?",
+      "Kann ich mit Fachabi am O-ja teilnehmen?"
+    ],
+    "antwort": "Das O-ja richtet sich an Schulabgänger*innen und Studieninteressierte mit einer gültigen Hochschulzugangsberechtigung (z. B. Abitur oder Fachhochschulreife), die noch unentschlossen sind, ob eine technische Berufsausbildung oder ein MINT-Studium besser zu ihnen passt.",
+    "quelle": "https://oja-orientierungsjahr.de/"
+  },
+  {
+    "intent": "ablauf",
+    "beispiele": [
+      "Wie läuft das O-ja ab?",
+      "Wie ist der Ablauf im Orientierungsjahr?",
+      "Wie sieht der Alltag im O-ja Programm aus?",
+      "Wie ist das Orientierungsjahr an der HTW aufgebaut?",
+      "Was macht man während des Ablaufs im O-ja?",
+      "Wie gestaltet sich der Ablauf von O-ja über das Jahr?",
+      "Erkläre mir den Aufbau und Ablauf des Orientierungsjahres."
+    ],
+    "antwort": "Im Verlauf des Orientierungsjahres kombinierst du theoretische Grundlagenmodule an der HTW Berlin mit praktischen Einblicken bei Bildungspartnern und Betriebspraktika in Unternehmen. Begleitet wird das Programm durchgehend durch individuelles Coaching und Beratung zur Berufs- und Studienwahl.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "dauer",
+    "beispiele": [
+      "Wie lange dauert das O-ja?",
+      "Über wie viele Semester geht das Orientierungsjahr?",
+      "Welche Dauer hat das O-ja an der HTW Berlin?",
+      "Dauert das Orientierungsjahr ein ganzes Jahr?",
+      "Wie viele Monate oder Semester dauert O-ja?",
+      "Wie lang ist die Studiendauer im O-ja?",
+      "Geht das O-ja Programm über zwei Semester?"
+    ],
+    "antwort": "Das O-ja! Orientierungsjahr dauert zwei Semester, also insgesamt ein Jahr.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "studienstart_quereinstieg",
+    "beispiele": [
+      "Wann startet das O-ja immer?",
+      "Beginnt das Orientierungsjahr im Sommersemester oder Wintersemester?",
+      "Ist ein Quereinstieg im Wintersemester möglich?",
+      "Wann ist Studienbeginn für das O-ja?",
+      "Kann man sowohl im April als auch im Oktober starten?",
+      "In welchem Semester fängt das O-ja regulär an?",
+      "Ab wann startet der nächste Jahrgang im O-ja?"
+    ],
+    "antwort": "Der reguläre Start für das O-ja! Orientierungsjahr ist im Sommersemester (April), ein Einstieg bzw. Quereinstieg ist aber auch zum Wintersemester (Oktober) problemlos möglich.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "bewerbung",
+    "beispiele": [
+      "Wie kann ich mich für das O-ja bewerben?",
+      "Wo läuft die Bewerbung für das Orientierungsjahr?",
+      "Wie bewerbe ich mich an der HTW Berlin für O-ja?",
+      "Über welches Portal erfolgt die Bewerbung zum O-ja?",
+      "Wie funktioniert der Bewerbungsprozess beim Orientierungsjahr?",
+      "Wo reiche ich meine Bewerbung für das O-ja ein?",
+      "Gibt es ein Online-Bewerbungsportal für das O-ja?"
+    ],
+    "antwort": "Die Bewerbung für das O-ja! Orientierungsjahr erfolgt digital über das offizielle Online-Bewerbungsportal der HTW Berlin (Einschreibung über den Studiengang Gebäudeenergie- und -informationstechnik mit Orientierungsjahr).",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/ausbildung-oder-studium-beides-im-o-ja-orientierungsjahr"
+  },
+  {
+    "intent": "fristen",
+    "beispiele": [
+      "Welche Bewerbungsfristen gelten für das O-ja?",
+      "Bis wann muss ich mich für das Orientierungsjahr bewerben?",
+      "Wann endet die Frist für die Bewerbung zum O-ja?",
+      "Wie lauten die Fristen für Wintersemester und Sommersemester?",
+      "Bis zu welchem Datum ist die Bewerbungsfrist beim O-ja?",
+      "Wann ist Bewerbungsschluss für das Orientierungsjahr?",
+      "Welche Deadlines und Fristen gibt es bei der O-ja Bewerbung?"
+    ],
+    "antwort": "Für den Einstieg zum Wintersemester lag die Bewerbungsfrist an der HTW Berlin regulär beim 15. Juli (mit teils verlängerten Fristen bis August), für das Sommersemester im Januar. Da die genauen Bewerbungszeiträume je nach Studienjahr variieren können: genaue aktuelle Fristen TODO: prüfen.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/ausbildung-oder-studium-beides-im-o-ja-orientierungsjahr"
+  },
+  {
+    "intent": "module_inhalte",
+    "beispiele": [
+      "Welche Module hat man im O-ja?",
+      "Welche Fächer und Inhalte werden im Orientierungsjahr unterrichtet?",
+      "Was lernt man in den Modulen beim O-ja?",
+      "Welche Lehrveranstaltungen besucht man im O-ja?",
+      "Stehen Mathe, Physik und Programmierung auf dem Stundenplan?",
+      "Aus welchen Modulen besteht das O-ja an der HTW?",
+      "Welche fachlichen Grundlagen werden im Orientierungsjahr vermittelt?"
+    ],
+    "antwort": "Im O-ja erwirbst du Grundlagenwissen in den Modulen Mathematik, Physik, Programmierung, Elektrotechnik, Holztechnik sowie Projektmanagement. Ergänzt wird das Angebot durch Sprach-Module, Praxisphasen und Coaching.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "sprachmodule",
+    "beispiele": [
+      "Gibt es Sprachkurse oder Sprachmodule im O-ja?",
+      "Kann man im Orientierungsjahr Fremdsprachen lernen?",
+      "Werden auch Sprach-Module oder Deutsch als Fremdsprache angeboten?",
+      "Welche Rolle spielen Sprachen im Lehrangebot des O-ja?",
+      "Gibt es Unterricht in Sprachen während des Orientierungsjahres?",
+      "Sind Sprachmodule Teil des O-ja Curriculums?"
+    ],
+    "antwort": "Ja, ergänzend zu den technischen Grundlagenfächern und dem Projektmanagement gehören auch spezielle Sprach-Module (darunter Fremdsprachen bzw. Deutsch als Fremdsprache) zum Lehrangebot des O-ja.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "schwerpunkte_berufsfelder",
+    "beispiele": [
+      "Welche Berufsfelder und Schwerpunkte lernt man im O-ja kennen?",
+      "In welchen Themenbereichen orientiert man sich beim O-ja?",
+      "Geht es im O-ja um Umwelt, Energie, Digitalisierung und Technik?",
+      "Welche Branchen oder MINT-Bereiche deckt das Orientierungsjahr ab?",
+      "Welche technischen Fachrichtungen kann ich im O-ja ausprobieren?",
+      "Auf welchen Schwerpunktbereichen liegt der Fokus im O-ja?"
+    ],
+    "antwort": "Der Schwerpunkt des O-ja liegt auf Ausbildungsberufen und Studiengängen im technischen Bereich (MINT). Teilnehmende erkunden insbesondere Berufsfelder in den Bereichen Umwelt, Energie, Digitalisierung und Technik.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "praktikum",
+    "beispiele": [
+      "Gibt es im O-ja ein Praktikum?",
+      "Macht man während des Orientierungsjahres praktische Erfahrungen in Unternehmen?",
+      "Wie läuft das Betriebspraktikum im O-ja ab?",
+      "Sammelt man im O-ja Praxiserfahrung in Betrieben?",
+      "Wie finde ich einen Praktikumsplatz im Orientierungsjahr?",
+      "Sind Unternehmenspraktika Teil des O-ja Programms?",
+      "Welche Rolle spielt die Praxis und das Praktikum beim O-ja?"
+    ],
+    "antwort": "Ja, Praxiserfahrung ist ein zentraler Bestandteil des O-ja. Starke Bildungspartner (wie IHK Berlin, ABB Ausbildungszentrum und HWK Berlin) sowie kooperierende Unternehmen ermöglichen praktische Einblicke und Betriebspraktika, bei deren Vermittlung das O-ja-Team aktiv unterstützt.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "pruefungen",
+    "beispiele": [
+      "Gibt es im O-ja Prüfungen oder Klausuren?",
+      "Muss man im Orientierungsjahr Prüfungen schreiben?",
+      "Wie sehen die Leistungsnachweise und Prüfungen im O-ja aus?",
+      "Werden die Module im O-ja mit einer Prüfung abgeschlossen?",
+      "Gibt es Noten oder Prüfungsleistungen im Orientierungsjahr?",
+      "Was passiert bei den Prüfungen im O-ja?"
+    ],
+    "antwort": "Da du im O-ja als reguläre*r Studierende*r an der HTW Berlin eingeschrieben bist, können in den Grundlagenmodulen Leistungsnachweise bzw. Prüfungen abgelegt werden, die bei einem späteren Studium für den Einstieg ins 2. Fachsemester angerechnet werden können. Konkrete Prüfungsformen je Modul laut aktueller Studienordnung: TODO: prüfen.",
+    "quelle": "https://oja-orientierungsjahr.de/"
+  },
+  {
+    "intent": "wechsel_studiengang",
+    "beispiele": [
+      "Wie funktioniert der Wechsel in einen Studiengang nach dem O-ja?",
+      "Kann ich nach dem Orientierungsjahr direkt weiterstudieren?",
+      "Werden meine Leistungen beim Wechsel in ein Studium angerechnet?",
+      "In welches Fachsemester steigt man nach dem O-ja ein?",
+      "Was passiert, wenn ich mich nach dem O-ja für ein Studium entscheide?",
+      "Wie wechselt man vom O-ja in einen regulären Bachelorstudiengang?",
+      "Kann ich nach dem O-ja ins 2. Fachsemester an der HTW wechseln?"
+    ],
+    "antwort": "Fällt deine Entscheidung am Ende des Orientierungsjahres auf ein Studium, ist an der HTW Berlin ein direkter Wechsel und Einstieg in das 2. Fachsemester eines passenden Studiengangs möglich.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "wechsel_ausbildung",
+    "beispiele": [
+      "Was ist, wenn ich mich nach dem O-ja für eine Ausbildung entscheide?",
+      "Hilft mir das O-ja beim Wechsel in eine Berufsausbildung?",
+      "Werde ich bei der Suche nach einem Ausbildungsbetrieb unterstützt?",
+      "Wie geht es nach dem Orientierungsjahr weiter, wenn ich eine Ausbildung machen will?",
+      "Kann man nach dem O-ja direkt in eine Ausbildung starten?",
+      "Vermittelt das O-ja passende Ausbildungsplätze?"
+    ],
+    "antwort": "Fällt deine Entscheidung nach dem O-ja auf eine Berufsausbildung, wird gemeinsam im Programm ein passender Ausbildungsbetrieb ermittelt und dein Einstieg in die Ausbildung aktiv begleitet. Zudem kann die Ausbildungsdauer durch die Vorleistungen oft verkürzt werden (Details zur Verkürzung je nach Kammer/Beruf: TODO: prüfen).",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "kooperationspartner",
+    "beispiele": [
+      "Mit welchen Partnern arbeitet die HTW Berlin beim O-ja zusammen?",
+      "Wer sind die Kooperationspartner des Orientierungsjahres?",
+      "Welche Rolle spielen IHK Berlin, ABB und Handwerkskammer beim O-ja?",
+      "Welche Bildungspartner unterstützen das O-ja Programm?",
+      "Mit welchen Institutionen kooperiert das O-ja?",
+      "Sind die IHK und das ABB Ausbildungszentrum Partner beim O-ja?"
+    ],
+    "antwort": "Die HTW Berlin führt das O-ja! Orientierungsjahr in Kooperation mit starken Partnern der beruflichen Bildung durch: Dazu gehören die Industrie- und Handelskammer Berlin (IHK Berlin), das ABB Ausbildungszentrum Berlin-Brandenburg sowie die Handwerkskammer Berlin (HWK Berlin).",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "kosten_semesterbeitrag",
+    "beispiele": [
+      "Was kostet die Teilnahme am O-ja?",
+      "Gibt es Studiengebühren für das Orientierungsjahr?",
+      "Ist das O-ja an der HTW Berlin kostenlos?",
+      "Muss ich für das O-ja einen Semesterbeitrag zahlen?",
+      "Welche Kosten oder Gebühren fallen im Orientierungsjahr an?",
+      "Kostet das O-ja Programm Geld?"
+    ],
+    "antwort": "Die Teilnahme am O-ja Programm selbst ist kostenfrei (es gibt keine zusätzlichen Programmgebühren). Da du als reguläre*r Studierende*r an der HTW Berlin immatrikuliert bist, fällt lediglich der übliche Semesterbeitrag der Hochschule an (aktuelle Beitragshöhe des laufenden Semesters: TODO: prüfen).",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "studierendenstatus_vorteile",
+    "beispiele": [
+      "Habe ich im O-ja den Status als regulärer Student?",
+      "Bin ich während des Orientierungsjahres an der HTW immatrikuliert?",
+      "Bekomme ich im O-ja einen Studierendenausweis und Studierendenstatus?",
+      "In welchem Studiengang ist man beim O-ja eingeschrieben?",
+      "Gilt man im O-ja offiziell als Studierender der HTW Berlin?",
+      "Welchen Status haben Teilnehmende am Orientierungsjahr?"
+    ],
+    "antwort": "Ja, während des O-ja haben alle Teilnehmenden den Status regulärer Studierender an der HTW Berlin (immatrikuliert über den Studiengang Gebäudeenergie- und -informationstechnik mit Orientierungsjahr) und profitieren von den üblichen Vorteilen einer Immatrikulation.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "bafoeg_finanzierung",
+    "beispiele": [
+      "Kann ich während des O-ja BAföG beantragen?",
+      "Ist das Orientierungsjahr BAföG-förderungsfähig?",
+      "Bekommt man im O-ja studentisches BAföG?",
+      "Wie kann ich mein Orientierungsjahr mit BAföG finanzieren?",
+      "Besteht Anspruch auf BAföG im O-ja an der HTW Berlin?",
+      "Gibt es finanzielle Förderung wie BAföG für O-ja Teilnehmende?"
+    ],
+    "antwort": "Da du im O-ja als reguläre*r Studierende*r an der HTW Berlin eingeschrieben bist, besteht grundsätzlich die Möglichkeit einer Förderung nach dem BAföG. Ob in deinem persönlichen Fall ein Anspruch besteht und wie der spätere Wechsel angerechnet wird: beim Studierendenwerk TODO: prüfen.",
+    "quelle": "https://oja-orientierungsjahr.de/"
+  },
+  {
+    "intent": "coaching_beratung",
+    "beispiele": [
+      "Gibt es im O-ja ein Coaching oder eine Beratung?",
+      "Wie werde ich bei meiner Entscheidung zwischen Ausbildung und Studium unterstützt?",
+      "Bekommt man im Orientierungsjahr persönliche Unterstützung und Coaching?",
+      "Wer hilft mir im O-ja herauszufinden, welcher Beruf zu mir passt?",
+      "Gibt es Entscheidungsberatung während des Orientierungsjahres?",
+      "Wie funktioniert das begleitende Coaching im O-ja?"
+    ],
+    "antwort": "Alle Teilnehmenden werden während des gesamten Orientierungsjahres durch individuelle Beratungs- und Coaching-Angebote begleitet, um ihre Stärken zu entdecken und eine fundierte Entscheidung zwischen Ausbildung, Studium oder dualem Weg zu treffen.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "standort_campus",
+    "beispiele": [
+      "Wo findet das O-ja statt?",
+      "Auf welchem Campus der HTW Berlin ist das Orientierungsjahr?",
+      "Ist der Unterricht am Campus Wilhelminenhof in Oberschöneweide?",
+      "An welchen Standorten lernt man im O-ja?",
+      "Wo liegen die Unterrichtsräume und Werkstätten des O-ja?",
+      "Muss ich für das O-ja nach Oberschöneweide oder Kreuzberg?"
+    ],
+    "antwort": "Die Lehrveranstaltungen an der HTW Berlin finden auf dem Campus Wilhelminenhof in Berlin-Oberschöneweide statt. Praktische Einheiten finden zudem bei den Bildungspartnern statt, etwa im Bildungs- und Technologiezentrum der Handwerkskammer Berlin in Kreuzberg oder beim ABB Ausbildungszentrum.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/ausbildung-oder-studium-beides-im-o-ja-orientierungsjahr"
+  },
+  {
+    "intent": "infoveranstaltungen",
+    "beispiele": [
+      "Gibt es Infoveranstaltungen zum O-ja?",
+      "Wo kann ich vorab an einem Info-Termin zum Orientierungsjahr teilnehmen?",
+      "Finden Online-Infoveranstaltungen für das O-ja statt?",
+      "Wie kann ich das O-ja vor der Bewerbung bei einem Infotag kennenlernen?",
+      "Gibt es Informationsveranstaltungen vor Ort oder per Video zum O-ja?",
+      "Wann ist die nächste Infoveranstaltung für das Orientierungsjahr?"
+    ],
+    "antwort": "Die HTW Berlin bietet vor jedem Bewerbungszeitraum Informationsveranstaltungen zum O-ja an – sowohl vor Ort am Campus Wilhelminenhof als auch online. Da die Termine für jedes Semester neu angesetzt werden: aktuelle Termine auf der Projektwebsite TODO: prüfen.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  },
+  {
+    "intent": "kontakt",
+    "beispiele": [
+      "Wie lautet der Kontakt für das O-ja?",
+      "An wen kann ich mich bei Fragen zum Orientierungsjahr wenden?",
+      "Wie ist die E-Mail-Adresse vom O-ja Team der HTW Berlin?",
+      "Wer ist Ansprechpartnerin für das O-ja?",
+      "Wo finde ich Kontaktdaten und die Website zum O-ja?",
+      "Wie erreiche ich die Koordination des Orientierungsjahres?"
+    ],
+    "antwort": "Für allgemeine Rückfragen erreichst du das O-ja-Team per E-Mail unter o-ja@htw-berlin.de. Fachkontakt für die Studienpraxis an der HTW Berlin ist Nadine Köcher. Weitere Informationen findest du außerdem auf der offiziellen Projektwebsite https://oja-orientierungsjahr.de.",
+    "quelle": "https://www.htw-berlin.de/einrichtungen/zentrale-referate/kommunikation/pressemitteilungen/htw-berlin-verstaerkt-das-o-ja-orientierungsjahr-mit-top-partnern-in-der-berufsausbildung"
+  }
+]
